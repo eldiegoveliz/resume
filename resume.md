@@ -1,73 +1,81 @@
 # DIEGO VÉLIZ
 
-Buin, Región Metropolitana  \|  +56 9 3190 7792  \|  <diego.veliz.valderrama@gmail.com>\
+Buin, Región Metropolitana  \|  +56 9 3190 7792  \|  <diego.veliz.valderrama@gmail.com>  
 [linkedin.com/in/diego-véliz-valderrama](https://linkedin.com/in/diego-véliz-valderrama)  \|  [github.com/eldiegoveliz](https://github.com/eldiegoveliz)  \|  [diegoveliz.xyz](https://diegoveliz.xyz)
 
 ## Perfil
 
-Estudiante de Ingeniería Comercial con mención en Economía, enfocado en **equity research**, valoración y automatización de análisis financiero. Desarrollo modelos propios, tesis de inversión y herramientas en Python/Excel para evaluar catalizadores y riesgos, modelar escenarios y convertir hipótesis de mercado en valoraciones defendibles.
+Licenciado en Economía y estudiante de Ingeniería Comercial, enfocado en **equity research**, valoración y análisis financiero. Desarrollo modelos de valoración, tesis de inversión y herramientas de automatización en Python y Excel.
 
 ## Educación
 
-**UNIVERSIDAD DE LOS ANDES** **Las Condes, Chile**\
-*Ingeniería Comercial, Mención en Economía* *Esperado Ago. 2027*\
-*Licenciatura en Economía* *Obtenida Ago. 2026*
+**Universidad de los Andes** **Las Condes, Chile**  
+*Ingeniería Comercial, mención en Economía* *Esperado ago. 2027*  
+*Licenciatura en Economía* *Obtenida ago. 2026*
 
-- **Honores:** Beneficiario de la **Beca Puntaje PTU**.
+- **Beca Puntaje PTU**.
 
 - **Minor:** Neurociencias.
 
 - **Cursos relevantes:** Renta Fija, Economía Fiscal, Investment Management and Research, Advanced Corporate Finance.
 
-**COLEGIO TÉCNICO PROFESIONAL NOCEDAL** **Santiago, Chile**\
+**Colegio Técnico Profesional Nocedal** **Santiago, Chile**  
 *Técnico Medio en Electricidad y Electrónica* *2007 – 2019*
 
-## Experiencia Académica y Liderazgo
+## Experiencia académica y liderazgo
 
-**UNIVERSIDAD DE LOS ANDES** **Santiago, Chile**\
-*Ayudante de Cátedra* *Jul. 2022 – Dic. 2025*
+**Universidad de los Andes** **Santiago, Chile**  
+*Ayudante de cátedra* *jul. 2022 – dic. 2025*
 
-- **Microeconomía II:** Diseñé materiales didácticos y pautas autoexplicativas de resolución de problemas (teoría neoclásica de producción, internalización y contrato) para cohortes de **+100 alumnos**.
+- **Microeconomía II:** Diseñé materiales didácticos y pautas autoexplicativas de resolución de problemas (teoría neoclásica de producción, internalización y contrato) para cohortes de **más de 100 estudiantes**.
 
-- **Álgebra Lineal y Excel I:** Dicté ayudantías técnicas, evalué tareas/pruebas y reforcé herramientas cuantitativas para cursos de **+130 estudiantes**.
+- **Álgebra Lineal y Excel I:** Dicté ayudantías técnicas, evalué tareas/pruebas y reforcé herramientas cuantitativas para cursos de **más de 130 estudiantes**.
 
-- **Productividad e Incentivos:** Analicé tareas semanales basadas en literatura académica y modelos de incentivos para **+100 alumnos**.
+- **Productividad e Incentivos:** Analicé tareas semanales basadas en literatura académica y modelos de incentivos para **más de 100 estudiantes**.
 
-**CLUB DE ECONOMÍA UANDES** **Santiago, Chile**\
-*Cofundador* *Ago. 2024 – Ago. 2026*
+**Club de Economía UANDES** **Santiago, Chile**  
+*Cofundador* *ago. 2024 – ago. 2026*
 
 - Cofundé una organización estudiantil para acercar teoría económica, mercados y práctica profesional mediante charlas, visitas y redes con la industria.
 
-## Research Financiero y Proyectos
+## Research financiero y proyectos
 
-**MODELOS DE VALORACIÓN Y TESIS DE INVERSIÓN** **Excel \| Python \| Web**
+**Modelos de valoración y tesis de inversión**
 
-- Construí modelos bottom-up, NPV y análisis de sensibilidad con escenarios downside/base/upside para **Abivax, Sarepta, Spruce, LMT y Beeline**; publiqué archivos y notas en [diegoveliz.xyz](https://diegoveliz.xyz).
+- Elaboré valoraciones y escenarios de inversión para **Abivax, Sarepta, Spruce, LMT y Beeline**; publiqué modelos y notas de análisis en [diegoveliz.xyz](https://diegoveliz.xyz).
 
-- Elaboré tesis de inversión sobre **Sarepta Therapeutics** y **Abivax**, integrando lectura clínica, mercado direccionable, riesgos regulatorios, probabilidad de éxito, adopción, estrategia de precios y potencial de M&A.
+- Analicé oportunidades de inversión en biotech considerando evidencia clínica, mercado potencial, riesgos regulatorios y perspectivas comerciales.
 
-- Desarrollé un modelo bayesiano para proyectar escenarios de fase 3 de Obefazimod (Abivax) y traducir sus supuestos a una valoración por acción.
+- Proyecté escenarios clínicos de Obefazimod y su impacto en la valoración de **Abivax**.
 
-- Documenté el desempeño 2025 de mi cartera personal, obteniendo un TWR de **+10%** aislando el efecto de aportes y retiros; registré tesis, errores y cambios en la construcción del portafolio.
+**Simulador long/short y análisis de empresas biotech**
 
-**SIMULADOR LONG/SHORT Y OPTIMIZACIÓN DE PORTAFOLIO** **Python \| CVXPY \| Flask \| SQLite**
+- Desarrollé un simulador para estudiar estrategias long/short, construcción de carteras y desempeño fuera de muestra.
 
-- Diseñé un simulador long/short con optimización convexa, estimación de covarianza Ledoit-Wolf, PCA de cinco factores y validación temporal fuera de muestra.
+- Incorporé un universo de **582 empresas biotecnológicas**, agrupadas por indicación terapéutica, para identificar compañías de interés según su fase clínica y resultados históricos.
 
-- Desarrollé un pipeline de inteligencia competitiva que cubre **582 biotechs** a partir de la API de ClinicalTrials.gov, las agrupa por indicación terapéutica y prioriza compañías para investigación según fase clínica, correlación y resultados históricos.
+- Publiqué una aplicación web con actualización semanal y acceso al código fuente: [Aplicación web](https://simulador.diegoveliz.xyz/biotech/) \| [GitHub](https://github.com/eldiegoveliz/biotech-hf-calculator).
 
-- Desplegué el proyecto con Flask/Gunicorn/Nginx y actualización semanal: [Live](https://simulador.diegoveliz.xyz/biotech/) \| [GitHub](https://github.com/eldiegoveliz/biotech-hf-calculator).
+**Monitoreo de mercados y catalizadores biotech**
 
-**AUTOMATIZACIÓN DE MONITOREO FINANCIERO** **Shell \| Python \| JavaScript**
+- Desarrollé un monitor de noticias y eventos clínicos y regulatorios para seguir oportunidades en empresas biotech de pequeña capitalización.
 
-- Creé un monitor de noticias biotech y catalizadores FDA que consolida RSS, calendarios institucionales y etiquetado asistido por LLM para priorizar eventos de fase 2/3, PDUFA y AdCom en compañías micro/small-cap biotech.
+- Incorporé seguimiento de precios y cotizaciones de compra y venta en tiempo real para acciones seleccionadas.
 
-- Implementé una terminal de precios y bid/ask en tiempo real vía Alpaca Markets para monitorear acciones seleccionadas.
+## Certificaciones y formación complementaria
 
-## Habilidades e Intereses
+- **AI Leadership**, OpenAI Academy *sept. 2026*
 
-- **Idiomas:** Inglés (Fluido), Español (Nativo).
+- **Python**, Kaggle *sept. 2026*
 
-- **Software:** Excel (Avanzado), Bloomberg Terminal, Python (Básico), Git, Linux/Nginx, SQL/SQLite (Básico) y LaTeX.
+- **Programa Andino**, ESE Business School *nov. 2024*
+
+- **Gestión de organizaciones efectivas**, PUC de Chile/Coursera *sept. 2020*
+
+## Habilidades e intereses
+
+- **Idiomas:** Inglés (fluido), español (nativo).
+
+- **Herramientas:** Excel (avanzado), Bloomberg Terminal, Python (básico), Git, Linux/Nginx, SQL/SQLite (básico) y LaTeX.
 
 - **Intereses:** Equity research, renta fija, biotech, macroeconomía y automatización de research.
