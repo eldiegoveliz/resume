@@ -1,0 +1,137 @@
+\documentclass[10pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+
+\geometry{left=0.45in, right=0.45in, top=0.42in, bottom=0.42in}
+
+\titleformat{\section}{\small\bfseries\uppercase}{}{0pt}{}[\titlerule]
+\titlespacing{\section}{0pt}{6pt}{3pt}
+
+\setlist[itemize]{topsep=0pt, parsep=1pt, partopsep=0pt, itemsep=0pt, leftmargin=1.35em}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+\pagestyle{empty}
+
+\begin{center}
+	\textbf{\Huge DIEGO VÉLIZ} \\ \vspace{4pt}
+	Buin, Región Metropolitana \ | \ +56 9 3190 7792 \ |
+	\ \href{mailto:diego.veliz.valderrama@gmail.com}
+	{diego.veliz.valderrama@gmail.com} \\
+	\href{https://linkedin.com/in/diego-véliz-valderrama}{linkedin.com/in/diego-véliz-valderrama}
+	\ | \ \href{https://github.com/eldiegoveliz}{github.com/eldiegoveliz} \
+	| \ \href{https://diegoveliz.xyz}{diegoveliz.xyz}
+\end{center}
+
+\section{Perfil}
+Estudiante de Ingeniería Comercial con mención en Economía, enfocado en
+\textbf{equity research}, valoración y automatización de análisis financiero.
+Desarrollo modelos propios, tesis de inversión y herramientas en Python/Excel
+para evaluar catalizadores y riesgos, modelar escenarios y convertir hipótesis
+de mercado en valoraciones defendibles.
+
+\section{Educación}
+\textbf{UNIVERSIDAD DE LOS ANDES} \hfill \textbf{Las Condes, Chile} \\
+\textit{Ingeniería Comercial, Mención en Economía} \hfill
+\textit{Esperado Ago. 2027}
+\begin{itemize}
+	\item \textbf{Honores:} Beneficiario de la \textbf{Beca Puntaje PTU}.
+	\item \textbf{Minor:} Neurociencias.
+	\item \textbf{Cursos relevantes:} Renta Fija, Economía Fiscal,
+		Investment Management and Research, Advanced Corporate Finance.
+\end{itemize}
+
+\vspace{4pt}
+\textbf{COLEGIO TÉCNICO PROFESIONAL NOCEDAL}
+\hfill \textbf{Santiago, Chile} \\
+\textit{Técnico Medio en Electricidad y Electrónica}
+\hfill \textit{2007 -- 2019}
+
+\section{Experiencia Académica y Liderazgo}
+\textbf{UNIVERSIDAD DE LOS ANDES} \hfill \textbf{Santiago, Chile} \\
+\textit{Ayudante de Cátedra} \hfill \textit{Jul. 2022 -- Dic. 2025}
+\begin{itemize}
+	\item \textbf{Microeconomía II:} Diseñé materiales didácticos
+		y pautas autoexplicativas de resolución de problemas
+		(teoría neoclásica de producción, internalización y contrato)
+		para cohortes de \textbf{+100 alumnos}.
+	\item \textbf{Álgebra Lineal y Excel I:} Dicté ayudantías técnicas, evalué
+		tareas/pruebas y reforcé herramientas cuantitativas para cursos de
+		\textbf{+130 estudiantes}.
+	\item \textbf{Productividad e Incentivos:} Analicé tareas semanales basadas
+		en literatura académica y modelos de incentivos para \textbf{+100 alumnos}.
+\end{itemize}
+
+\vspace{2pt}
+\textbf{CLUB DE ECONOMÍA UANDES} \hfill \textbf{Santiago, Chile} \\
+\textit{Cofundador} \hfill \textit{Ago. 2024 -- Ago. 2026}
+\begin{itemize}
+	\item Cofundé una organización estudiantil para acercar teoría económica,
+		mercados y práctica profesional mediante charlas, visitas y redes con
+		la industria.
+\end{itemize}
+
+\section{Research Financiero y Proyectos}
+\textbf{MODELOS DE VALORACIÓN Y TESIS DE INVERSIÓN}
+\hfill \textbf{Excel | Python | Web}
+\begin{itemize}
+	\item Construí modelos bottom-up, NPV y análisis de sensibilidad con
+		escenarios downside/base/upside para \textbf{Abivax, Sarepta, Spruce, LMT
+		y Beeline}; publiqué archivos y notas en
+		\underline{\href{https://diegoveliz.xyz}{diegoveliz.xyz}}.
+	\item Elaboré tesis de inversión sobre \textbf{Sarepta Therapeutics} y
+		\textbf{Abivax}, integrando lectura clínica, mercado direccionable, riesgos
+		regulatorios, probabilidad de éxito, adopción, estrategia de precios y
+		potencial de M\&A.
+	\item Desarrollé un modelo bayesiano para proyectar escenarios de fase 3 de
+		Obefazimod (Abivax) y traducir sus supuestos a una valoración por acción.
+	\item Documenté el desempeño 2025 de mi cartera personal, obteniendo un TWR
+		de \textbf{+10\%} aislando el efecto de aportes y retiros; registré tesis,
+		errores y cambios en la construcción del portafolio.
+
+\end{itemize}
+
+\vspace{2pt}
+\textbf{SIMULADOR LONG/SHORT Y OPTIMIZACIÓN DE PORTAFOLIO}
+\hfill \textbf{Python | CVXPY | Flask | SQLite}
+\begin{itemize}
+	\item Diseñé un simulador long/short con optimización convexa, estimación de
+		covarianza Ledoit-Wolf, PCA de cinco factores y validación temporal fuera
+		de muestra.
+	\item Desarrollé un pipeline de inteligencia competitiva que cubre
+		\textbf{582 biotechs} a partir de la API de ClinicalTrials.gov, las agrupa
+		por indicación terapéutica y prioriza compañías para investigación según
+		fase clínica, correlación y resultados históricos.
+	\item Desplegué el proyecto con Flask/Gunicorn/Nginx y actualización semanal:
+		\href{https://simulador.diegoveliz.xyz/biotech/}{Live} |
+		\href{https://github.com/eldiegoveliz/biotech-hf-calculator}{GitHub}.
+\end{itemize}
+
+\vspace{2pt}
+\textbf{AUTOMATIZACIÓN DE MONITOREO FINANCIERO}
+\hfill \textbf{Shell | Python | JavaScript}
+
+\begin{itemize}
+	\item Creé un monitor de noticias biotech y catalizadores FDA que consolida
+		RSS, calendarios institucionales y etiquetado asistido por LLM para
+		priorizar eventos de fase 2/3, PDUFA y AdCom en compañías
+		micro/small-cap biotech.
+	\item Implementé una terminal de precios y bid/ask en tiempo real vía Alpaca
+		Markets para monitorear acciones seleccionadas.
+\end{itemize}
+
+\section{Habilidades e Intereses}
+\begin{itemize}
+	\item \textbf{Idiomas:} Inglés (Fluido), Español (Nativo).
+	\item \textbf{Software:} Excel (Avanzado), Bloomberg Terminal,
+		Python (Básico), Git, Linux/Nginx, SQL/SQLite (Básico) y \LaTeX.
+	\item \textbf{Intereses:} Equity research, renta fija, biotech,
+		macroeconomía y automatización de research.
+\end{itemize}
+
+\end{document}

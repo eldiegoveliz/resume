@@ -1,0 +1,14 @@
+/legacy/
+/.build/
+
+# LaTeX and editor temporary files.
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.swp
+*.swo
+*~
+.DS_Store
