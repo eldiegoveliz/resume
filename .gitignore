@@ -1,6 +1,10 @@
 /legacy/
 /.build/
 
+# Local PDF copies; resume.pdf is the published PDF.
+/Diego Véliz.pdf
+/diego-veliz.pdf
+
 # LaTeX and editor temporary files.
 *.aux
 *.log
