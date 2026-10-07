@@ -1,6 +1,6 @@
 # DIEGO VÉLIZ
 
-Buin, Región Metropolitana  \|  +56 9 3190 7792  \|  <diego.veliz.valderrama@gmail.com>\
+Buin, Región Metropolitana  \|  +56 9 3190 7792  \|  <diego.veliz.valderrama@gmail.com>  
 [linkedin.com/in/diego-véliz-valderrama](https://linkedin.com/in/diego-véliz-valderrama)  \|  [github.com/eldiegoveliz](https://github.com/eldiegoveliz)  \|  [diegoveliz.xyz](https://diegoveliz.xyz)
 
 ## Perfil
@@ -9,7 +9,7 @@ Estudiante de Ingeniería Comercial con mención en Economía, enfocado en **equ
 
 ## Educación
 
-**UNIVERSIDAD DE LOS ANDES** **Las Condes, Chile**\
+**UNIVERSIDAD DE LOS ANDES** **Las Condes, Chile**  
 *Ingeniería Comercial, Mención en Economía* *Esperado Ago. 2027*
 
 - **Honores:** Beneficiario de la **Beca Puntaje PTU**.
@@ -18,12 +18,12 @@ Estudiante de Ingeniería Comercial con mención en Economía, enfocado en **equ
 
 - **Cursos relevantes:** Renta Fija, Economía Fiscal, Investment Management and Research, Advanced Corporate Finance.
 
-**COLEGIO TÉCNICO PROFESIONAL NOCEDAL** **Santiago, Chile**\
+**COLEGIO TÉCNICO PROFESIONAL NOCEDAL** **Santiago, Chile**  
 *Técnico Medio en Electricidad y Electrónica* *2007 – 2019*
 
 ## Experiencia Académica y Liderazgo
 
-**UNIVERSIDAD DE LOS ANDES** **Santiago, Chile**\
+**UNIVERSIDAD DE LOS ANDES** **Santiago, Chile**  
 *Ayudante de Cátedra* *Jul. 2022 – Dic. 2025*
 
 - **Microeconomía II:** Diseñé materiales didácticos y pautas autoexplicativas de resolución de problemas (teoría neoclásica de producción, internalización y contrato) para cohortes de **+100 alumnos**.
@@ -32,7 +32,7 @@ Estudiante de Ingeniería Comercial con mención en Economía, enfocado en **equ
 
 - **Productividad e Incentivos:** Analicé tareas semanales basadas en literatura académica y modelos de incentivos para **+100 alumnos**.
 
-**CLUB DE ECONOMÍA UANDES** **Santiago, Chile**\
+**CLUB DE ECONOMÍA UANDES** **Santiago, Chile**  
 *Cofundador* *Ago. 2024 – Ago. 2026*
 
 - Cofundé una organización estudiantil para acercar teoría económica, mercados y práctica profesional mediante charlas, visitas y redes con la industria.
