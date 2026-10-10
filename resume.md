@@ -5,7 +5,7 @@ Buin, Región Metropolitana  \|  +56 9 3190 7792  \|  <diego.veliz.valderram
 
 ## Perfil
 
-Licenciado en Economía y estudiante de Ingeniería Comercial, enfocado en **equity research**, valoración y análisis financiero. Desarrollo modelos de valoración, tesis de inversión y herramientas de automatización en Python y Excel.
+Licenciado en Economía y estudiante de Ingeniería Comercial, orientado al análisis de inversiones. Desarrollo modelos de valoración, tesis de inversión y herramientas para analizar carteras y riesgos.
 
 ## Educación
 
@@ -17,7 +17,7 @@ Licenciado en Economía y estudiante de Ingeniería Comercial, enfocado en **equ
 
 - **Minor:** Neurociencias.
 
-- **Cursos relevantes:** Renta Fija, Economía Fiscal, Investment Management and Research, Advanced Corporate Finance.
+- **Cursos relevantes:** Renta Fija, Economía Fiscal, Investment Management and Research, Advanced Corporate Finance, Asset Pricing.
 
 **Colegio Técnico Profesional Nocedal** **Santiago, Chile**  
 *Técnico Medio en Electricidad y Electrónica* *2007 – 2019*
@@ -31,34 +31,28 @@ Licenciado en Economía y estudiante de Ingeniería Comercial, enfocado en **equ
 
 - **Álgebra Lineal y Excel I:** Dicté ayudantías técnicas, evalué tareas/pruebas y reforcé herramientas cuantitativas para cursos de **más de 130 estudiantes**.
 
-- **Productividad e Incentivos:** Analicé tareas semanales basadas en literatura académica y modelos de incentivos para **más de 100 estudiantes**.
+- **Productividad e Incentivos:** Analicé tareas semanales basadas en literatura académica y pruebas para **cerca de 100 estudiantes**.
 
 **Club de Economía UANDES** **Santiago, Chile**  
 *Cofundador* *ago. 2024 – ago. 2026*
 
-- Cofundé una organización estudiantil para acercar teoría económica, mercados y práctica profesional mediante charlas, visitas y redes con la industria.
+- Cofundé el Club de Economía UANDES con el objetivo de acercar a los estudiantes a la academia, a la actualidad económica y al mundo profesional mediante charlas y actividades con expertos.
 
 ## Research financiero y proyectos
 
 **Modelos de valoración y tesis de inversión**
 
-- Elaboré valoraciones y escenarios de inversión para **Abivax, Sarepta, Spruce, LMT y Beeline**; publiqué modelos y notas de análisis en [diegoveliz.xyz](https://diegoveliz.xyz).
+- Elaboré modelos de valoración para empresas biotech, industriales y tecnológicas, incorporando proyecciones, escenarios y análisis de sensibilidad. Publicados en [diegoveliz.xyz](https://diegoveliz.xyz).
 
-- Analicé oportunidades de inversión en biotech considerando evidencia clínica, mercado potencial, riesgos regulatorios y perspectivas comerciales.
+**Optimizador de carteras long/short y pair trading**
 
-- Proyecté escenarios clínicos de Obefazimod y su impacto en la valoración de **Abivax**.
+- Desarrollé un optimizador long/short para construir carteras y evaluar su desempeño fuera de muestra.
 
-**Simulador long/short y análisis de empresas biotech**
-
-- Desarrollé un simulador para estudiar estrategias long/short, construcción de carteras y desempeño fuera de muestra.
-
-- Incorporé un universo de **582 empresas biotecnológicas**, agrupadas por indicación terapéutica, para identificar compañías de interés según su fase clínica y resultados históricos.
-
-- Publiqué una aplicación web con actualización semanal y acceso al código fuente: [Aplicación web](https://simulador.diegoveliz.xyz/biotech/) \| [GitHub](https://github.com/eldiegoveliz/biotech-hf-calculator).
+- Diseñé una extensión para pair trading en empresas biotech, considerando sus pipelines clínicos.
 
 **Monitoreo de mercados y catalizadores biotech**
 
-- Desarrollé un monitor de noticias y eventos clínicos y regulatorios para seguir oportunidades en empresas biotech de pequeña capitalización.
+- Desarrollé un monitor de noticias, eventos clínicos y decisiones regulatorias para seguir eventos de empresas.
 
 - Incorporé seguimiento de precios y cotizaciones de compra y venta en tiempo real para acciones seleccionadas.
 
@@ -76,6 +70,6 @@ Licenciado en Economía y estudiante de Ingeniería Comercial, enfocado en **equ
 
 - **Idiomas:** Inglés (fluido), español (nativo).
 
-- **Herramientas:** Excel (avanzado), Bloomberg Terminal, Python (básico), Git, Linux/Nginx, SQL/SQLite (básico) y LaTeX.
+- **Herramientas:** Excel (avanzado), Python (básico), SQL (básico), Git, Linux/Nginx y LaTeX.
 
 - **Intereses:** Equity research, renta fija, biotech, macroeconomía y automatización de research.
